@@ -1,6 +1,6 @@
 # Quem sou eu?
 
-- Sou um programador iniciante, técnico em Desenvolvimento de Sistemas atualmente cursando o curso superior de Análise Desenvolvimento de Sistemas
+- Sou um programador iniciante, técnico em Desenvolvimento de Sistemas atualmente cursando o curso superior de Análise e Desenvolvimento de Sistemas
 - Tenho interesse em técnologias WEB e desejo entrar no mercado de desenvolvimento com JavaScript
 
 ## Meu código
